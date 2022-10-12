@@ -8,3 +8,15 @@ function newUser(user, age, country){
         country: country
     }
 }
+
+
+//Esta es la nueva forma propuesta
+function newUserForm(user, age, country){
+    return {
+        user,
+        age,
+        country
+    }
+}
+
+console.log(newUserForm('machsa', 24, 'MX'));
