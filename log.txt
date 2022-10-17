@@ -1,0 +1,29 @@
+commit 98cc1ca84f5614d51fe8ceafc55d3c4d2ce8c859
+Author: MarioChico <mario_chico98@hotmail.com>
+Date:   Thu Oct 13 12:24:02 2022 -0500
+
+    Archivos relacionados a los modulos, en conjunto con el package.json
+
+commit e1e7140e3357095cb9188e00037eb448717655f5
+Author: MarioChico <mario_chico98@hotmail.com>
+Date:   Thu Oct 13 11:53:52 2022 -0500
+
+    Dos nuevos archivos explicando conceptos agregados en ES6, promesas y clases
+
+commit d16fc515eec1451347fbdf4c5cb75612758de792
+Author: MarioChico <mario_chico98@hotmail.com>
+Date:   Wed Oct 12 11:33:40 2022 -0500
+
+    Escribiendo la forma propuesta desde ECMAScript 6 para pasar los objetos de la funcion de una forma literal
+
+commit be672af1811b41b22c7d3d0b4f9b0b36b494d362
+Author: MarioChico <mario_chico98@hotmail.com>
+Date:   Wed Oct 12 11:28:31 2022 -0500
+
+    Manera tradicional de pasar el nombre del objeto con el contenido que viene del mismo nombre
+
+commit 60b3702eb05a31941d61f5077ef22a5a3bfa18b3
+Author: MarioChico <mario_chico98@hotmail.com>
+Date:   Wed Oct 12 10:59:08 2022 -0500
+
+    Archivos de practica en javascript con las funcionalidades agregadas en ES6
