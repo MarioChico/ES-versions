@@ -24,3 +24,4 @@ const fruits = () => {
 }
 
 fruits()
+// Las palabras reservadas let y const se agregaron en ES6
