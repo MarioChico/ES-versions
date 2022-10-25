@@ -13,3 +13,4 @@ anotherFunction()
     .then(response => console.log(response))
     .catch(err => console.log(err))
 //Este codigo es que hacemos una promesa que algo va a pasar o se va a rechazar, dependiendo el caso, donde pasamos una funcion anonima como argumento y esa funcion tiene dos argumentos, resolve y reject
+// Las promesas tambien me servirán mucho para los futuros cursos
