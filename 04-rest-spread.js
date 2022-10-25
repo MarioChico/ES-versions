@@ -30,3 +30,4 @@ function sum(num, ...values){
 
 console.log(sum(3,5,6,8,9,3,2))
 
+// El rest operator nos sirve para agregar elementos al dom de manera en que podemos guardar todos los elementos creados en un arreglo y despues pasarlo en un appen con el rest operator
